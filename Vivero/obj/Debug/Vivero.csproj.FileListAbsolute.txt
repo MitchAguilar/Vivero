@@ -1,0 +1,17 @@
+C:\Users\Usuario\Documents\Vivero\Vivero\bin\Vivero.dll.config
+C:\Users\Usuario\Documents\Vivero\Vivero\bin\Vivero.dll
+C:\Users\Usuario\Documents\Vivero\Vivero\bin\Vivero.pdb
+C:\Users\Usuario\Documents\Vivero\Vivero\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Usuario\Documents\Vivero\Vivero\bin\MySql.Data.dll
+C:\Users\Usuario\Documents\Vivero\Vivero\bin\MySql.Data.Entity.EF6.dll
+C:\Users\Usuario\Documents\Vivero\Vivero\bin\MySQL.Data.EntityFrameworkCore.dll
+C:\Users\Usuario\Documents\Vivero\Vivero\bin\MySql.Web.dll
+C:\Users\Usuario\Documents\Vivero\Vivero\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Usuario\Documents\Vivero\Vivero\bin\MySql.Data.xml
+C:\Users\Usuario\Documents\Vivero\Vivero\bin\MySql.Data.Entity.EF6.xml
+C:\Users\Usuario\Documents\Vivero\Vivero\bin\MySQL.Data.EntityFrameworkCore.xml
+C:\Users\Usuario\Documents\Vivero\Vivero\bin\MySql.Web.xml
+C:\Users\Usuario\Documents\Vivero\Vivero\obj\Debug\Vivero.csprojResolveAssemblyReference.cache
+C:\Users\Usuario\Documents\Vivero\Vivero\obj\Debug\Vivero.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Documents\Vivero\Vivero\obj\Debug\Vivero.dll
+C:\Users\Usuario\Documents\Vivero\Vivero\obj\Debug\Vivero.pdb
